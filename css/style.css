@@ -1,0 +1,109 @@
+body {
+    background-color: #f9f9f9; /* Couleur de fond */
+    color: #333; /* Couleur du texte */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Police */
+}
+
+#container {
+    text-align: center; /* Centrer le contenu */
+    margin-top: 50px; /* Marge supérieure */
+}
+
+#logo {
+    max-width: 200px; /* Taille maximale du logo */
+}
+
+#welcome {
+    font-size: 24px; /* Taille de la police du message de bienvenue */
+    margin-top: 20px; /* Marge supérieure */
+}
+
+#product-info {
+    background-color: #fff; /* Couleur de fond de la zone d'informations du produit */
+    border-radius: 10px; /* Bord arrondi */
+    padding: 20px; /* Espacement interne */
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.1); /* Ombre */
+    margin-top: 50px; /* Marge supérieure */
+    max-width: 600px; /* Largeur maximale de la zone d'informations */
+    margin-left: auto; /* Centrer horizontalement */
+    margin-right: auto; /* Centrer horizontalement */
+    text-align: left; /* Alignement du texte à gauche */
+}
+
+#product-info h2 {
+    font-size: 28px; /* Taille de la police pour le nom du produit */
+    margin-bottom: 15px; /* Marge inférieure */
+}
+
+#product-info img {
+    max-width: 100%; /* Image à taille maximale */
+    border-radius: 8px; /* Bord arrondi */
+    margin-bottom: 15px; /* Marge inférieure */
+    display: block; /* Pour centrer l'image horizontalement */
+    margin-left: auto; /* Centrer horizontalement */
+    margin-right: auto; /* Centrer horizontalement */
+}
+
+#product-info p {
+    font-size: 18px; /* Taille de la police pour les autres informations */
+    margin-bottom: 10px; /* Marge inférieure */
+    line-height: 1.5; /* Espacement entre les lignes */
+}
+
+.product-info-container {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    padding: 20px;
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.product-name {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333333;
+}
+
+.product-image {
+    max-width: 80%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.product-details {
+    font-size: 16px;
+    color: #666666;
+}
+
+.product-details p {
+    margin: 10px 0;
+}
+
+body {
+    background-color: #e6e6e6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#logo {
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+#welcome {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333333;
+}
+
+
+
+
+
